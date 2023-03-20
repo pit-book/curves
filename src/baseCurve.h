@@ -7,7 +7,7 @@
 #include <fstream>
 #include <cmath>
 
-#define MAXSPEEDCHANGE 1.2l
+#define MAXSPEEDCHANGE 1.21l
 
 using namespace std;
 
